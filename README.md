@@ -7,7 +7,7 @@
 
 Projeto construído no Evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://edsonterciotti.github.io/Projeto-01/)
+[🔗 Clique aqui para acessar](https://github.com/EdsonTerciotti/Projeto-01)
 
 ## 🔧 Tecnologias
 
