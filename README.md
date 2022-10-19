@@ -5,7 +5,7 @@
 
  Trilha Explorer
 
-Projeto construído no Evento Next Level Week da Rocketseat
+Projeto construído no Stage02 do Explorer da Rocketseat
 
 [🔗 Clique aqui para acessar](https://github.com/EdsonTerciotti/Projeto-01)
 
